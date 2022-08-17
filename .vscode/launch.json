@@ -6,7 +6,7 @@
             "showDebuggerOutput": true
             "type": "Ruby",
             "request": "launch",
-            "program": "${workspaceRoot}/ruby/1.ruby",
+            "program": "${workspaceRoot}/ruby/1.两数之和.rb",
             "debuggerPort": "1303",
         }
     ]
