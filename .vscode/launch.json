@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "算法",
+            "showDebuggerOutput": true
+            "type": "Ruby",
+            "request": "launch",
+            "program": "${workspaceRoot}/ruby/1.ruby",
+            "debuggerPort": "1303",
+        }
+    ]
+}
